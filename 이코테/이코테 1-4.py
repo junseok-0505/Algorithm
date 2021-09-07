@@ -1,4 +1,4 @@
-# 이코테 1-3.
+# 이코테 1-4.
 
 n, m = map(int, input().split())
 result = 0
